@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "208489368449",
+    "firebase_url": "https://chatapplication-cdcdd1212.firebaseio.com",
+    "project_id": "chatapplication-cdcdd1212",
+    "storage_bucket": "chatapplication-cdcdd1212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208489368449:android:f3e0c84972886f99",
+        "android_client_info": {
+          "package_name": "com.tecent.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208489368449-h860n8qdckvvuk625tk0ue7i4nmfe158.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecent.chatapplication",
+            "certificate_hash": "d381916126c4ce8e2605d046cf47ad7caa3a2844"
+          }
+        },
+        {
+          "client_id": "208489368449-qosb4e9t3risrhmh1tbp75qiqb15a0ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn1X6ux7fkj6nZ5Kwshmbzlj3ZG-jNZVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208489368449-qosb4e9t3risrhmh1tbp75qiqb15a0ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
